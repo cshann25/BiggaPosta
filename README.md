@@ -1,7 +1,8 @@
 # BiggaPosta
 This tool can be used to automatically post text, pictures, or videos to Facebook ONLY
 
-Introduction 
+Introduction
+
 The BiggPosta(FBO) App is a desktop application designed to help small business owners or 
 anyone with a need to post content to Facebook automatically on a schedule. The program uses 
 Facebook API to post to Facebook and saves users time and money by automatically posting 
@@ -42,6 +43,7 @@ allows the program to automate the process of posting content on Facebook, reduc
 workload for small business owners and anyone who needs to post content on a regular basis.
 
 User Interface 
+
 The User Interface section of the technical documentation provides a detailed description of the 
 graphical user interface (GUI) of the program. It outlines the different components of the user 
 interface, including the four tabs: Home, FB Token Posts, Auto-Posts, and Logs.
@@ -56,6 +58,7 @@ different components of the user interface are connected and how they work toget
 seamless user experience.
 
 Code Structure 
+
 The Code Structure section of the technical documentation provides a detailed overview of the 
 different functions and classes in the program, as well as the code flow and organization. The 
 main program code is divided into several files, with each file containing specific functionality. 
@@ -74,6 +77,7 @@ logging, and schedule. These libraries and modules provide additional functional
 the development process.
 
 Dependencies 
+
 The Dependencies section lists the third-party libraries and modules used in the program, along 
 with instructions on how to install them. The program uses several modules and packages, 
 including os, sys, glob, json, random, requests, threading, logging, schedule, and several PyQt5 
@@ -100,6 +104,7 @@ After successful installation and configuration, the user can start the program 
 features to automate their Facebook posts.
 
 Testing 
+
 The program was tested extensively for a period of three months by having it post to a business 
 Facebook account. The testing process included various scenarios such as checking the
 scheduled posts, checking the content of the posts, and verifying that the program posted at the 
@@ -128,6 +133,7 @@ following:
     improvement and to guide future development efforts.
 
 Conclusion 
+
 The BiggPosta(FBO) app is a valuable tool for small business owners or anyone who needs to 
 automatically post content to Facebook on a schedule. It offers a user-friendly interface, 
 customizable posting schedule, and the ability to post random media from a local folder.
